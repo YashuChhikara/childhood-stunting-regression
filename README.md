@@ -31,8 +31,7 @@ BIC selected four indicators, explaining **30.9% of the variation remaining afte
 | Improved sanitation | −0.86 pp |
 | Women's low BMI | +2.26 pp |
 | Institutional births | −1.30 pp |
-
-![Conditional associations and uncertainty intervals](report/figures/parsimonious_associations.png)
+parsimonious_associations.png
 
 ### Internal prediction assessment
 
