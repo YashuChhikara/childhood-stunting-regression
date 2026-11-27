@@ -1,0 +1,5 @@
+"source_row","district","state","indicator","source_heading","raw_value","flag"
+331,"Jabalpur","Madhya Pradesh","stunting","Children under 5 years who are stunted (height-for-age)18 (%)","(18.0)","small_sample_25_49"
+331,"Jabalpur","Madhya Pradesh","antenatal","Mothers who had at least 4 antenatal care visits  (for last birth in the 5 years before the survey) (%)","(60.4)","small_sample_25_49"
+331,"Jabalpur","Madhya Pradesh","early_marriage","Women age 20-24 years married before age 18 years (%)","(7.2)","small_sample_25_49"
+331,"Jabalpur","Madhya Pradesh","teen_motherhood","Women age 15-19 years who were already mothers or pregnant at the time of the survey (%)","(13.6)","small_sample_25_49"
